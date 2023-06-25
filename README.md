@@ -1,1 +1,1 @@
-# go-crud-api-postgre
+# go-crud-api-postgres
